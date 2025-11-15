@@ -1,2 +1,2 @@
 # Leviathan-Axe-simple-practice-
-This project is a simple responsive webpage inspired by God of War. It shows the Leviathan Axe with a clean design and a navigation menu at the top. The page layout changes automatically when the screen size gets smaller, so it looks good on phones and computers. The design includes a gradient background, a highlighted container, and an image ...
+This project is a simple responsive webpage inspired by God of War. It shows the Leviathan Axe with a clean design and a navigation menu at the top. The page layout changes automatically when the screen size gets smaller, so it looks good on phones and computers. The design includes a gradient background, a highlighted container, and an image next to some text describing the weapon.
